@@ -1,0 +1,3 @@
+mod leetcode;
+
+struct Solution;
